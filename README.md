@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=higashi04&" alt="higashi04" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=higashi04&show_icons=true&theme=dracula" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higashi04&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats"/></p>
 <!--
 **higashi04/higashi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs]()]
