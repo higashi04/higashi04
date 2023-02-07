@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Cesar Higashi</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-- 🔭 I’m currently working on [CRISTAR-S]([https://github.com/higashi04/dexFanmadeReactVersion](https://github.com/higashi04/CRISTAR-S))
+- 🔭 I’m currently working on [CRISTAR-S](https://github.com/higashi04/CRISTAR-S)
 
 - 🌱 I’m currently learning **Flutter and Swift**
 
