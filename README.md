@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [CRISTAR-S](https://github.com/higashi04/CRISTAR-S)
 
-- 🌱 I’m currently learning **Flutter and Swift**
+- 🌱 I’m currently learning **Angular and ASP.NET*
 
 - 👨‍💻 All of my projects are available at [https://github.com/higashi04/](https://github.com/higashi04/)
 
